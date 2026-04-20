@@ -10,7 +10,7 @@
 #define WIFI_SSID     "Surya"
 #define WIFI_PASSWORD "YOUR_HOTSPOT_PASSWORD"
 
-#define BOT_TOKEN "8446451270:AAEjcmM2yGiLiZsVHJ_3UvZpA6_dHA75MeY"
+#define BOT_TOKEN "<BOT TOKEN>"
 
 #define RELAY_PIN     9    // ACTIVE LOW
 #define BUZZER_PIN    7
