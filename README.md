@@ -4,7 +4,8 @@ An ESP32-based remote motor control system for water pumps with Telegram bot int
 
 ## Features
 
-- **Remote Control**: Start/stop motor via Telegram bot
+- **Remote Control**: Start motor via Telegram bot
+- **Auto Stop on Tank Full**: A flot switch auto stops the motor
 - **Auto Registration**: Secure user registration through physical button confirmation
 - **Safety Monitoring**: 
   - Tank level low sensor
