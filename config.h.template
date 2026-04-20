@@ -1,0 +1,12 @@
+/* ===================== CONFIGURATION ===================== */
+/* Copy this file to config.h and fill in your credentials */
+/* DO NOT COMMIT config.h - it contains sensitive information */
+
+// WiFi Credentials
+#define WIFI_SSID     "YOUR_WIFI_SSID"
+#define WIFI_PASSWORD "YOUR_WIFI_PASSWORD"
+
+// Telegram Bot Token
+#define BOT_TOKEN "YOUR_TELEGRAM_BOT_TOKEN"
+
+/* ================================================= */

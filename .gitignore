@@ -1,0 +1,60 @@
+# Arduino IDE files
+*.tmp
+*.bak
+*.c.o
+*.cpp.o
+*.h.ino.cpp.o
+*.a
+*.elf
+*.hex
+*.d
+*.map
+*.lss
+*.lst
+*.sym
+
+# PlatformIO files
+.pio/
+.vscode/
+*.pioenv
+*.piolibdeps
+*.libdeps
+*.ccls
+*.clang_complete
+*.clang-format
+*.clang-tidy
+
+# Sensitive configuration files
+config.h
+secrets.h
+credentials.h
+wifi_credentials.h
+
+# IDE files
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+build/
+dist/
+out/
+
+# Logs
+*.log
+logs/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Backup files
+*.backup
+*.old
+
+# Git
+.git/
+*.orig
