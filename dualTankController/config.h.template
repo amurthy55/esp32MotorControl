@@ -1,0 +1,7 @@
+#pragma once
+
+#define BOT_TOKEN ""
+#define DEFAULT_CHAT_ID 0LL
+#define OTA_HOSTNAME "PumpControl"
+#define OTA_PASSWORD ""
+#define OTA_GITHUB_URL ""
