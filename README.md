@@ -2,6 +2,9 @@
 
 An ESP32-based remote motor control system for water pumps with Telegram bot interface and safety monitoring.
 
+For the GF/FF firmware with persistent valve reminders, see
+[the dual-tank sketch and build instructions](dualTankController/README.md).
+
 ## Features
 
 - **Remote Control**: Start motor via Telegram bot
